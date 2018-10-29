@@ -25,3 +25,5 @@ local.env
 .mason
 .eslintrc.js
 setup.sh
+yarn.lock
+package-lock.json
